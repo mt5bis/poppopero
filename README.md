@@ -18,3 +18,5 @@ $ cmake .
 $ make
 $ ./allegroPrimer
 ```
+
+I'm join!
